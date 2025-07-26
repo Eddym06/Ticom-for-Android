@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ticom</string>
+    
+    <!-- Main UI -->
+    <string name="entrada">Entrada</string>
+    <string name="salida">Salida</string>
+    <string name="dias_de_clase">Días de Clase</string>
+    <string name="lista_de_tickets">Lista de Tickets</string>
+    <string name="subir_ticket">Subir Ticket</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="borrar_todos_los_datos">Borrar Todos los Datos</string>
+    
+    <!-- Ticket Types -->
+    <string name="entrada_ticket">Entrada Ticket</string>
+    <string name="salida_ticket">Salida Ticket</string>
+    <string name="codigo">Código</string>
+    <string name="fecha">Fecha</string>
+    <string name="tipo">Tipo</string>
+    
+    <!-- Lists and Filters -->
+    <string name="todos">Todos</string>
+    <string name="entradas">Entradas</string>
+    <string name="salidas">Salidas</string>
+    
+    <!-- Settings -->
+    <string name="notificaciones">Notificaciones</string>
+    <string name="hora_de_notificacion">Hora de Notificación</string>
+    <string name="frecuencia_de_alertas">Frecuencia de Alertas</string>
+    <string name="notificacion_de_prueba">Notificación de Prueba</string>
+    <string name="apariencia">Apariencia</string>
+    <string name="personalizacion_de_colores">Personalización de Colores</string>
+    
+    <!-- User Guide -->
+    <string name="guia_de_usuario">Guía de Usuario</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="anterior">Anterior</string>
+    <string name="finalizar">Finalizar</string>
+    
+    <!-- Days of Week -->
+    <string name="lunes">Lunes</string>
+    <string name="martes">Martes</string>
+    <string name="miercoles">Miércoles</string>
+    <string name="jueves">Jueves</string>
+    <string name="viernes">Viernes</string>
+    <string name="sabado">Sábado</string>
+    <string name="domingo">Domingo</string>
+    
+    <!-- Actions -->
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="borrar">Borrar</string>
+    <string name="exportar">Exportar</string>
+    
+    <!-- Notifications -->
+    <string name="falta_ticket_entrada">Falta Ticket de Entrada</string>
+    <string name="falta_ticket_salida">Falta Ticket de Salida</string>
+    <string name="falta_entrada_para_fecha">Falta un ticket de entrada para el %1$s.</string>
+    <string name="falta_salida_para_fecha">Falta un ticket de salida para el %1$s.</string>
+    
+    <!-- Messages -->
+    <string name="no_hay_ticket_entrada">No hay ticket de entrada para este día.</string>
+    <string name="no_hay_ticket_salida">No hay ticket de salida para este día.</string>
+    <string name="procesando_tickets">Procesando tickets...</string>
+    <string name="tickets_procesados">%1$d de %2$d tickets procesados</string>
+    
+    <!-- Permissions -->
+    <string name="permiso_camara">Esta aplicación necesita acceso a la cámara para tomar fotos de tickets.</string>
+    <string name="permiso_almacenamiento">Esta aplicación necesita acceso al almacenamiento para guardar y cargar tickets.</string>
+    <string name="permiso_notificaciones">Esta aplicación utiliza notificaciones para recordarte sobre tickets faltantes.</string>
+</resources>
